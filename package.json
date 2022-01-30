@@ -1,0 +1,23 @@
+{
+  "name": "alwayssunny_api",
+  "version": "1.0.0",
+  "description": "list of always sunny episodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oopara2/alwayssunny_api.git"
+  },
+  "author": "oopara1@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oopara2/alwayssunny_api/issues"
+  },
+  "homepage": "https://github.com/oopara2/alwayssunny_api#readme",
+  "dependencies": {
+    "i": "^0.3.7",
+    "json-server": "^0.17.0"
+  }
+}

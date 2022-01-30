@@ -1,0 +1,64 @@
+{
+  "episodes" : [
+     { "id":201,
+      "season": 2,
+      "episode": 1,
+      "title": "Charlie Gets Crippled",
+      "synopsis":"The gang discovers the perks of being handicapped."
+  },
+  {"id":202,
+  "season": 2,
+  "episode": 2,
+  "title": "The Gang Goes Jihad",
+  "synopsis":"The gang discovers they may lose part of their bar due to a zoning mishap and an overzealous new business neighbor, and use unorthodox measures to remedy the situation."
+  },
+  
+  {"id":203,
+  "season":2,
+  "episode":3,
+  "title":"Dennis and Dee Go On Welfare",
+  "synopsis":"Frank has become too much to handle, leaving Dennis and Dee with no other option than to quit their jobs and go on welfare."
+  },
+ {"id":204,
+  "season":2,
+  "episode":4,
+  "title":"Mac Bangs Dennis' Mom",
+  "synopsis":"The gang uses the threat of sex for their own selfish purposes."
+  },
+ {"id":205,
+  "season":2,
+  "episode":5,
+  "title":"Hundred Dollar Baby",
+  "synopsis":"After getting mugged, Dee agrees to take boxing lessons from Frank, who's thrilled with the prospect of reliving his glory days as a pro-fighter."
+  },
+  {"id":206,
+  "season":2,
+  "episode":6,
+  "title":"The Gang Gives Back",
+  "synopsis":"The Gang must atone for the events of 'The Gang Goes Jihad': Mac, Dennis, and Dee are sentenced to coach inner-city children's basketball, and Charlie is sentenced to attend AA meetings. The Waitress, an alcoholic, is at the meetings and offers to be Charlie's sponsor just to get to Dennis."
+  },
+  {"id":207,
+  "season":2,
+  "episode":7,
+  "title":"The Gang Exploits a Miracle",
+  "synopsis":"When the Gang finds a water stain in the office that resembles the Virgin Mary, Frank charges patrons to see the miracle. Meanwhile, Dennis goes anorexic when Dee tells him that his face is fat, Mac and Charlie become dueling preachers, and a former admirer of Dee's get another chance with her."
+  },
+  {"id":208,
+  "season":2,
+  "episode":8,
+  "title":"The Gang Runs for Office",
+  "synopsis":"After realizing political corruption's money-making potential, the Gang helps Dennis run for the position of a local comptroller."
+  },
+  {"id":209,
+  "season":2,
+  "episode":9,
+  "title":"Charlie Goes America All Over Everybody's Ass",
+  "synopsis":"Outraged when Dennis smokes in the bar, Charlie teams with Dee to start an anti-smoking rally. Meanwhile, Mac, Dennis, and Frank turn Paddy's Pub into an 'anything goes' bar, which goes horribly wrong thanks to the new clientele: heroin addicts, Vietnamese gamblers, and incestuous McPoyle siblings"
+  },
+  {"id":210,
+  "season":2,
+  "episode":10,
+  "title":	"Dennis and Dee Get a New Dad",
+  "synopsis":"Dennis and Dee discover the MySpace page of a man who claims to be their real father. Meanwhile, Mac and Charlie visit Mac's convict father in jail, and Charlie thinks Frank might be his real father."
+  }
+  ]}
